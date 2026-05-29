@@ -4,7 +4,7 @@ import io
 
 @st.dialog("Share Class Link")
 def share_subject_dialog(subject_name,subject_code):
-    app_domain="snaplass-main.streamlit.app"
+    app_domain="snaplass-main1256.streamlit.app"
     join_url=f"{app_domain}/?join-code={subject_code}"
     st.header("Scan to Join")
     qr=segno.make(join_url)
