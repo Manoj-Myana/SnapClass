@@ -224,7 +224,7 @@ http://localhost:8501
 
 GitHub: https://github.com/Manoj-Myana
 
-LinkedIn: Add your LinkedIn profile here
+LinkedIn: [Add your LinkedIn profile here](https://www.linkedin.com/in/manojkumarmyana16/)
 
 ---
 
